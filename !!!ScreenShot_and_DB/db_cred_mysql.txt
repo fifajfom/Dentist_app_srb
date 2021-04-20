@@ -1,3 +1,8 @@
+Create database(mysql)
 database name: "om"
 user:root
 pass:root
+
+Then import OM_V3.sql
+
+Program wont work if you don't create db and import .sql
