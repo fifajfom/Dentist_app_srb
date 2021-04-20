@@ -1,0 +1,194 @@
+C:\Users\Miki\source\repos\OrdinacijaMihajlovic\bin\Debug\OrdinacijaMihajlovic.exe.config
+C:\Users\Miki\source\repos\OrdinacijaMihajlovic\bin\Debug\OrdinacijaMihajlovic.exe
+C:\Users\Miki\source\repos\OrdinacijaMihajlovic\bin\Debug\OrdinacijaMihajlovic.pdb
+C:\Users\Miki\source\repos\OrdinacijaMihajlovic\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Miki\source\repos\OrdinacijaMihajlovic\bin\Debug\Google.Protobuf.dll
+C:\Users\Miki\source\repos\OrdinacijaMihajlovic\bin\Debug\MySql.Data.dll
+C:\Users\Miki\source\repos\OrdinacijaMihajlovic\bin\Debug\Renci.SshNet.dll
+C:\Users\Miki\source\repos\OrdinacijaMihajlovic\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Miki\source\repos\OrdinacijaMihajlovic\bin\Debug\Google.Protobuf.xml
+C:\Users\Miki\source\repos\OrdinacijaMihajlovic\bin\Debug\MySql.Data.xml
+C:\Users\Miki\source\repos\OrdinacijaMihajlovic\bin\Debug\Renci.SshNet.xml
+C:\Users\Miki\source\repos\OrdinacijaMihajlovic\obj\Debug\OrdinacijaMihajlovic.csprojAssemblyReference.cache
+C:\Users\Miki\source\repos\OrdinacijaMihajlovic\obj\Debug\MainWindow.g.cs
+C:\Users\Miki\source\repos\OrdinacijaMihajlovic\obj\Debug\App.g.cs
+C:\Users\Miki\source\repos\OrdinacijaMihajlovic\obj\Debug\OrdinacijaMihajlovic_MarkupCompile.cache
+C:\Users\Miki\source\repos\OrdinacijaMihajlovic\obj\Debug\OrdinacijaMihajlovic_MarkupCompile.lref
+C:\Users\Miki\source\repos\OrdinacijaMihajlovic\obj\Debug\MainWindow.baml
+C:\Users\Miki\source\repos\OrdinacijaMihajlovic\obj\Debug\OrdinacijaMihajlovic.g.resources
+C:\Users\Miki\source\repos\OrdinacijaMihajlovic\obj\Debug\OrdinacijaMihajlovic.Properties.Resources.resources
+C:\Users\Miki\source\repos\OrdinacijaMihajlovic\obj\Debug\OrdinacijaMihajlovic.csproj.GenerateResource.cache
+C:\Users\Miki\source\repos\OrdinacijaMihajlovic\obj\Debug\OrdinacijaMihajlovic.csproj.CoreCompileInputs.cache
+C:\Users\Miki\source\repos\OrdinacijaMihajlovic\obj\Debug\OrdinacijaMihajlovic.csproj.CopyComplete
+C:\Users\Miki\source\repos\OrdinacijaMihajlovic\obj\Debug\OrdinacijaMihajlovic.exe
+C:\Users\Miki\source\repos\OrdinacijaMihajlovic\obj\Debug\OrdinacijaMihajlovic.pdb
+C:\Users\Miki\source\repos\OrdinacijaMihajlovic\bin\Debug\WpfAnimatedGif.dll
+C:\Users\Miki\source\repos\OrdinacijaMihajlovic\bin\Debug\XamlAnimatedGif.dll
+C:\Users\Miki\source\repos\OrdinacijaMihajlovic\bin\Debug\WpfAnimatedGif.pdb
+C:\Users\Miki\source\repos\OrdinacijaMihajlovic\bin\Debug\WpfAnimatedGif.xml
+C:\Users\Miki\source\repos\OrdinacijaMihajlovic\obj\Debug\Pacijenti.g.cs
+C:\Users\Miki\source\repos\OrdinacijaMihajlovic\obj\Debug\Pacijenti.baml
+C:\Users\Miki\source\repos\OrdinacijaMihajlovic\obj\Debug\res\placeholder.baml
+C:\Users\Miki\source\repos\OrdinacijaMihajlovic\bin\Debug\EntityFramework.dll
+C:\Users\Miki\source\repos\OrdinacijaMihajlovic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Miki\source\repos\OrdinacijaMihajlovic\bin\Debug\EntityFramework.xml
+C:\Users\Miki\source\repos\OrdinacijaMihajlovic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Miki\source\repos\OrdinacijaMihajlovic\obj\Debug\Karton.g.cs
+C:\Users\Miki\source\repos\OrdinacijaMihajlovic\obj\Debug\Karton.baml
+C:\Users\Miki\source\repos\OrdinacijaMihajlovic\obj\Debug\res\hover.baml
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic\obj\Debug\OrdinacijaMihajlovic.csprojAssemblyReference.cache
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic\obj\Debug\OrdinacijaMihajlovic.exe
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic\obj\Debug\OrdinacijaMihajlovic.pdb
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic\obj\Debug\Pacijenti.baml
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic\obj\Debug\res\placeholder.baml
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic\obj\Debug\MainWindow.g.cs
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic\obj\Debug\Pacijenti.g.cs
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic\obj\Debug\App.g.cs
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic\obj\Debug\OrdinacijaMihajlovic_MarkupCompile.cache
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic\obj\Debug\OrdinacijaMihajlovic_MarkupCompile.lref
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic\bin\Debug\OrdinacijaMihajlovic.exe.config
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic\bin\Debug\OrdinacijaMihajlovic.exe
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic\bin\Debug\OrdinacijaMihajlovic.pdb
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic\bin\Debug\EntityFramework.dll
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic\bin\Debug\Google.Protobuf.dll
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic\bin\Debug\MySql.Data.dll
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic\bin\Debug\Renci.SshNet.dll
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic\bin\Debug\WpfAnimatedGif.dll
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic\bin\Debug\XamlAnimatedGif.dll
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic\bin\Debug\EntityFramework.xml
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic\bin\Debug\Google.Protobuf.xml
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic\bin\Debug\MySql.Data.xml
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic\bin\Debug\Renci.SshNet.xml
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic\bin\Debug\WpfAnimatedGif.pdb
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic\bin\Debug\WpfAnimatedGif.xml
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic\obj\Debug\MainWindow.baml
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic\obj\Debug\res\hover.baml
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic\obj\Debug\OrdinacijaMihajlovic.g.resources
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic\obj\Debug\OrdinacijaMihajlovic.Properties.Resources.resources
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic\obj\Debug\OrdinacijaMihajlovic.csproj.GenerateResource.cache
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic\obj\Debug\OrdinacijaMihajlovic.csproj.CoreCompileInputs.cache
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic\obj\Debug\OrdinacijaMihajlovic.csproj.CopyComplete
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton\bin\Debug\OrdinacijaMihajlovic.exe.config
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton\bin\Debug\OrdinacijaMihajlovic.exe
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton\bin\Debug\OrdinacijaMihajlovic.pdb
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton\bin\Debug\EntityFramework.dll
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton\bin\Debug\Google.Protobuf.dll
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton\bin\Debug\MySql.Data.dll
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton\bin\Debug\Renci.SshNet.dll
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton\bin\Debug\WpfAnimatedGif.dll
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton\bin\Debug\XamlAnimatedGif.dll
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton\bin\Debug\EntityFramework.xml
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton\bin\Debug\Google.Protobuf.xml
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton\bin\Debug\MySql.Data.xml
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton\bin\Debug\Renci.SshNet.xml
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton\bin\Debug\WpfAnimatedGif.pdb
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton\bin\Debug\WpfAnimatedGif.xml
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton\obj\Debug\OrdinacijaMihajlovic.csprojAssemblyReference.cache
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton\obj\Debug\Pacijenti.baml
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton\obj\Debug\res\placeholder.baml
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton\obj\Debug\MainWindow.g.cs
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton\obj\Debug\Pacijenti.g.cs
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton\obj\Debug\App.g.cs
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton\obj\Debug\OrdinacijaMihajlovic_MarkupCompile.cache
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton\obj\Debug\OrdinacijaMihajlovic_MarkupCompile.lref
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton\obj\Debug\MainWindow.baml
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton\obj\Debug\res\hover.baml
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton\obj\Debug\OrdinacijaMihajlovic.g.resources
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton\obj\Debug\OrdinacijaMihajlovic.Properties.Resources.resources
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton\obj\Debug\OrdinacijaMihajlovic.csproj.GenerateResource.cache
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton\obj\Debug\OrdinacijaMihajlovic.csproj.CoreCompileInputs.cache
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton\obj\Debug\OrdinacijaMihajlovic.csproj.CopyComplete
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton\obj\Debug\OrdinacijaMihajlovic.exe
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton\obj\Debug\OrdinacijaMihajlovic.pdb
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton\obj\Debug\Karton.g.cs
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton\obj\Debug\Karton.baml
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton\obj\Debug\Zub.g.cs
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton\obj\Debug\Zub.baml
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton - 5 -work\bin\Debug\OrdinacijaMihajlovic.exe.config
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton - 5 -work\bin\Debug\OrdinacijaMihajlovic.exe
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton - 5 -work\bin\Debug\OrdinacijaMihajlovic.pdb
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton - 5 -work\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton - 5 -work\bin\Debug\EntityFramework.dll
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton - 5 -work\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton - 5 -work\bin\Debug\Google.Protobuf.dll
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton - 5 -work\bin\Debug\MySql.Data.dll
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton - 5 -work\bin\Debug\Renci.SshNet.dll
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton - 5 -work\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton - 5 -work\bin\Debug\WpfAnimatedGif.dll
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton - 5 -work\bin\Debug\XamlAnimatedGif.dll
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton - 5 -work\bin\Debug\EntityFramework.xml
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton - 5 -work\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton - 5 -work\bin\Debug\Google.Protobuf.xml
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton - 5 -work\bin\Debug\MySql.Data.xml
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton - 5 -work\bin\Debug\Renci.SshNet.xml
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton - 5 -work\bin\Debug\WpfAnimatedGif.pdb
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton - 5 -work\bin\Debug\WpfAnimatedGif.xml
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton - 5 -work\obj\Debug\OrdinacijaMihajlovic.csprojAssemblyReference.cache
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton - 5 -work\obj\Debug\Pacijenti.baml
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton - 5 -work\obj\Debug\res\placeholder.baml
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton - 5 -work\obj\Debug\Karton.g.cs
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton - 5 -work\obj\Debug\MainWindow.g.cs
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton - 5 -work\obj\Debug\Pacijenti.g.cs
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton - 5 -work\obj\Debug\Zub.g.cs
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton - 5 -work\obj\Debug\App.g.cs
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton - 5 -work\obj\Debug\OrdinacijaMihajlovic_MarkupCompile.cache
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton - 5 -work\obj\Debug\OrdinacijaMihajlovic_MarkupCompile.lref
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton - 5 -work\obj\Debug\Karton.baml
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton - 5 -work\obj\Debug\MainWindow.baml
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton - 5 -work\obj\Debug\res\hover.baml
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton - 5 -work\obj\Debug\Zub.baml
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton - 5 -work\obj\Debug\OrdinacijaMihajlovic.g.resources
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton - 5 -work\obj\Debug\OrdinacijaMihajlovic.Properties.Resources.resources
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton - 5 -work\obj\Debug\OrdinacijaMihajlovic.csproj.GenerateResource.cache
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton - 5 -work\obj\Debug\OrdinacijaMihajlovic.csproj.CoreCompileInputs.cache
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton - 5 -work\obj\Debug\OrdinacijaMihajlovic.csproj.CopyComplete
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton - 5 -work\obj\Debug\OrdinacijaMihajlovic.exe
+C:\Users\Miki\Desktop\BACKUP OM\OrdinacijaMihajlovic - Karton - 5 -work\obj\Debug\OrdinacijaMihajlovic.pdb
+D:\SIKI\BACKUP OM\OrdinacijaMihajlovic - Karton - 13\bin\Debug\OrdinacijaMihajlovic.exe.config
+D:\SIKI\BACKUP OM\OrdinacijaMihajlovic - Karton - 13\bin\Debug\OrdinacijaMihajlovic.exe
+D:\SIKI\BACKUP OM\OrdinacijaMihajlovic - Karton - 13\bin\Debug\OrdinacijaMihajlovic.pdb
+D:\SIKI\BACKUP OM\OrdinacijaMihajlovic - Karton - 13\bin\Debug\BouncyCastle.Crypto.dll
+D:\SIKI\BACKUP OM\OrdinacijaMihajlovic - Karton - 13\bin\Debug\EntityFramework.dll
+D:\SIKI\BACKUP OM\OrdinacijaMihajlovic - Karton - 13\bin\Debug\EntityFramework.SqlServer.dll
+D:\SIKI\BACKUP OM\OrdinacijaMihajlovic - Karton - 13\bin\Debug\Google.Protobuf.dll
+D:\SIKI\BACKUP OM\OrdinacijaMihajlovic - Karton - 13\bin\Debug\MySql.Data.dll
+D:\SIKI\BACKUP OM\OrdinacijaMihajlovic - Karton - 13\bin\Debug\Renci.SshNet.dll
+D:\SIKI\BACKUP OM\OrdinacijaMihajlovic - Karton - 13\bin\Debug\Ubiety.Dns.Core.dll
+D:\SIKI\BACKUP OM\OrdinacijaMihajlovic - Karton - 13\bin\Debug\WpfAnimatedGif.dll
+D:\SIKI\BACKUP OM\OrdinacijaMihajlovic - Karton - 13\bin\Debug\XamlAnimatedGif.dll
+D:\SIKI\BACKUP OM\OrdinacijaMihajlovic - Karton - 13\bin\Debug\EntityFramework.xml
+D:\SIKI\BACKUP OM\OrdinacijaMihajlovic - Karton - 13\bin\Debug\EntityFramework.SqlServer.xml
+D:\SIKI\BACKUP OM\OrdinacijaMihajlovic - Karton - 13\bin\Debug\Google.Protobuf.xml
+D:\SIKI\BACKUP OM\OrdinacijaMihajlovic - Karton - 13\bin\Debug\MySql.Data.xml
+D:\SIKI\BACKUP OM\OrdinacijaMihajlovic - Karton - 13\bin\Debug\Renci.SshNet.xml
+D:\SIKI\BACKUP OM\OrdinacijaMihajlovic - Karton - 13\bin\Debug\WpfAnimatedGif.pdb
+D:\SIKI\BACKUP OM\OrdinacijaMihajlovic - Karton - 13\bin\Debug\WpfAnimatedGif.xml
+D:\SIKI\BACKUP OM\OrdinacijaMihajlovic - Karton - 13\obj\Debug\OrdinacijaMihajlovic.csprojAssemblyReference.cache
+D:\SIKI\BACKUP OM\OrdinacijaMihajlovic - Karton - 13\obj\Debug\Pacijenti.baml
+D:\SIKI\BACKUP OM\OrdinacijaMihajlovic - Karton - 13\obj\Debug\res\placeholder.baml
+D:\SIKI\BACKUP OM\OrdinacijaMihajlovic - Karton - 13\obj\Debug\Karton.g.cs
+D:\SIKI\BACKUP OM\OrdinacijaMihajlovic - Karton - 13\obj\Debug\MainWindow.g.cs
+D:\SIKI\BACKUP OM\OrdinacijaMihajlovic - Karton - 13\obj\Debug\Pacijenti.g.cs
+D:\SIKI\BACKUP OM\OrdinacijaMihajlovic - Karton - 13\obj\Debug\Zub.g.cs
+D:\SIKI\BACKUP OM\OrdinacijaMihajlovic - Karton - 13\obj\Debug\App.g.cs
+D:\SIKI\BACKUP OM\OrdinacijaMihajlovic - Karton - 13\obj\Debug\OrdinacijaMihajlovic_MarkupCompile.cache
+D:\SIKI\BACKUP OM\OrdinacijaMihajlovic - Karton - 13\obj\Debug\OrdinacijaMihajlovic_MarkupCompile.lref
+D:\SIKI\BACKUP OM\OrdinacijaMihajlovic - Karton - 13\obj\Debug\Karton.baml
+D:\SIKI\BACKUP OM\OrdinacijaMihajlovic - Karton - 13\obj\Debug\MainWindow.baml
+D:\SIKI\BACKUP OM\OrdinacijaMihajlovic - Karton - 13\obj\Debug\res\hover.baml
+D:\SIKI\BACKUP OM\OrdinacijaMihajlovic - Karton - 13\obj\Debug\Zub.baml
+D:\SIKI\BACKUP OM\OrdinacijaMihajlovic - Karton - 13\obj\Debug\OrdinacijaMihajlovic.g.resources
+D:\SIKI\BACKUP OM\OrdinacijaMihajlovic - Karton - 13\obj\Debug\OrdinacijaMihajlovic.Properties.Resources.resources
+D:\SIKI\BACKUP OM\OrdinacijaMihajlovic - Karton - 13\obj\Debug\OrdinacijaMihajlovic.csproj.GenerateResource.cache
+D:\SIKI\BACKUP OM\OrdinacijaMihajlovic - Karton - 13\obj\Debug\OrdinacijaMihajlovic.csproj.CoreCompileInputs.cache
+D:\SIKI\BACKUP OM\OrdinacijaMihajlovic - Karton - 13\obj\Debug\OrdinacijaMihajlovic.csproj.CopyComplete
+D:\SIKI\BACKUP OM\OrdinacijaMihajlovic - Karton - 13\obj\Debug\OrdinacijaMihajlovic.exe
+D:\SIKI\BACKUP OM\OrdinacijaMihajlovic - Karton - 13\obj\Debug\OrdinacijaMihajlovic.pdb

@@ -1,0 +1,65 @@
+﻿<Window x:Name="PacW" x:Class="OrdinacijaMihajlovic.Pacijenti"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+
+        mc:Ignorable="d"
+        Title="Pacijenti" Loaded="Window_Loaded" Height="561.6" Width="1300" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen" Closed="PacW_Close" Icon="doctor-hospital-icon.png" Background="{x:Null}">
+    <Window.Resources>
+
+        <!-- DECLARING MERGED DICTIONARY -->
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source='res/placeholder.xaml' />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+
+
+    </Window.Resources>
+
+    <Grid Margin="-2,0,-1.4,0">
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF231625" Offset="0.17"/>
+                <GradientStop Color="#FF5A1F62" Offset="0.993"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <DataGrid x:Name="DataGridPacijent" HorizontalAlignment="Left" Height="417" Margin="261,55,0,0" VerticalAlignment="Top" Width="1000" ItemsSource="{Binding Path=LoadDataBindingPacijenti}" 
+                  SelectionChanged="DataGridPacijent_SelectionChanged" CanUserAddRows="false" AutoGenerateColumns="false" PreviewMouseDoubleClick="DataGridPacijent_DoubleClick">
+
+            <DataGrid.Columns>
+
+                <DataGridTextColumn Binding="{Binding Path=id}"  Header="Id" MinWidth="40" 
+IsReadOnly="True" />
+                <DataGridTextColumn Binding="{Binding Path=ime}" Header="Ime" MinWidth="100"
+IsReadOnly="True" />
+                <DataGridTextColumn Binding="{Binding Path=prezime}" Header="Prezime" MinWidth="170"
+IsReadOnly="True" />
+                <DataGridTextColumn Binding="{Binding Path=email}" Header="e-mail" MinWidth="170"
+IsReadOnly="True" />
+                <DataGridTextColumn Binding="{Binding Path=telefon}" Header="Telefon" MinWidth="150"
+IsReadOnly="True" />
+                <DataGridTextColumn Binding="{Binding Path=adresa}" Header="Adresa" MinWidth="180"
+IsReadOnly="True" />
+                <DataGridTextColumn Binding="{Binding Path=extra}" Header="Dodatni podatci" MinWidth="180"
+IsReadOnly="True" />
+            </DataGrid.Columns>
+
+        </DataGrid>
+        <TextBox x:Name="Search" Style="{StaticResource placeHolder}" Tag="Pretraga...." FontFamily="segoe" FontWeight="Bold"  HorizontalAlignment="Left" Height="20" Margin="1137,23,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="121" KeyDown="SearchBox_KeyDown" Background="LightGray" />
+        <TextBox Style="{StaticResource placeHolder}" Tag="Ime" FontFamily="segoe" FontWeight="Bold"  x:Name="ime" HorizontalAlignment="Left" Height="23" Margin="28,56,0,0" TextWrapping="Wrap" Text=""   VerticalAlignment="Top" Width="198" />
+        <TextBox Style="{StaticResource placeHolder}" Tag="Prezime" FontFamily="segoe" FontWeight="Bold" x:Name="prezime" HorizontalAlignment="Left" Height="23" Margin="27,100,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="198" />
+        <TextBox Style="{StaticResource placeHolder}" Tag="E-mail"  FontFamily="segoe" FontWeight="Bold" x:Name="email" HorizontalAlignment="Left" Height="23" Margin="28,148,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="198"/>
+        <TextBox Style="{StaticResource placeHolder}" Tag="Telefon" FontFamily="segoe" FontWeight="Bold" x:Name="telefon" HorizontalAlignment="Left" Height="23" Margin="27,192,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="198"/>
+        <TextBox Style="{StaticResource placeHolder}" Tag="Adresa" FontFamily="segoe" FontWeight="Bold"  x:Name="adresa" HorizontalAlignment="Left" Height="23" Margin="29,243,0,0" TextWrapping="Wrap" Text="" Padding="5" VerticalAlignment="Top" Width="198"/>
+        <TextBox Style="{StaticResource placeHolder}" Tag="Dodati podaci" FontFamily="segoe" FontWeight="Bold"  x:Name="extra" HorizontalAlignment="Left" Height="23" Margin="28,289,0,0"  TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="198"/>
+        <TextBox Style="{StaticResource placeHolder}" Tag="ID" x:Name="Ida"  FontFamily="segoe" FontWeight="Bold"  HorizontalAlignment="Left" Height="19" Margin="28,24,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="27" RenderTransformOrigin="-4.533,0.505" IsEnabled="False"/>
+        <Button x:Name="Delete" Content="Obriši pacijenta" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,24,928,0"  Width="100" Height="20" FontFamily="segoe" FontSize="10" FontWeight="Bold" Background="#FFB73939" Click="Delete_Click" />
+        <Button x:Name="Osvezi" Content="Osveži" HorizontalAlignment="right" Margin="0,0,40,14" VerticalAlignment="Bottom"  Width="120" Height="30" FontFamily="segoe"  FontWeight="Bold" Background="LightSkyBlue" Click="Osvezi_Click"/>
+        <Button x:Name="Save"  Content="Sačuvaj" HorizontalAlignment="Left" Margin="135,354,0,0" VerticalAlignment="Top" Width="70" Height="30" FontFamily="segoe" FontWeight="Bold"  Background="LightSkyBlue" Click="Save_Click"/>
+        <Button x:Name="Clear"  Content="Izbriši polja" HorizontalAlignment="Left" Margin="48,354,0,0" VerticalAlignment="Top" Width="70" Height="30" FontFamily="segoe" FontWeight="Bold"  Background="LightSeaGreen" Click="Clear_Click" />
+        <Button x:Name="Otvori_karton" Content="Otvori karton" HorizontalAlignment="Left" Margin="48,406,0,0" VerticalAlignment="Top" Width="159" Height="60" FontFamily="segoe" FontWeight="Bold" Background="Bisque" Click="Otvori_karton_Click"/>
+
+    </Grid>
+</Window>

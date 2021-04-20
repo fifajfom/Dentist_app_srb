@@ -1,0 +1,248 @@
+﻿<Window x:Name="KartonW" x:Class="OrdinacijaMihajlovic.Karton"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OrdinacijaMihajlovic"
+        mc:Ignorable="d"
+        Title="Karton" Height="495.6" Width="696.8" Loaded="KartonW_Loaded" WindowStartupLocation="CenterScreen" Activated="Kartonw_activated" Icon="teeth-icon.png" Closed="KartonW_close" ResizeMode="CanMinimize">
+    <Window.Resources>
+
+        <!-- DECLARING MERGED DICTIONARY -->
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source='res/hover.xaml' />
+                <ResourceDictionary Source='res/placeholder.xaml' />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+
+
+    </Window.Resources>
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF231625" Offset="0.17"/>
+                <GradientStop Color="#FF5A1F62" Offset="0.993"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+
+        <Rectangle Fill="#FF717182" HorizontalAlignment="Left" Height="199" Margin="21,21,0,0" Stroke="Black" VerticalAlignment="Top" Width="645"/>
+
+        <!--#region GORNJA LEVA-->
+        <Button x:Name="Gl8" Style="{StaticResource MyButton}" ToolTip="{Binding TeethFullgl8}" Content="" HorizontalAlignment="Left" Margin="26,38,0,0" VerticalAlignment="Top" Width="35" Height="82" Click="Gl8_Click" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="pic/gl8.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Gl7" Style="{StaticResource MyButton}" ToolTip="{Binding TeethFullgl7}" Content="" HorizontalAlignment="Left" Margin="60,38,0,0" VerticalAlignment="Top" Width="35" Height="82" Click="Gl7_Click" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="pic/gl7.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Gl6" Style="{StaticResource MyButton}" ToolTip="{Binding TeethFullgl6}"  Content="" HorizontalAlignment="Left" Margin="101,38,0,0" VerticalAlignment="Top" Width="35" Height="82" Click="Gl6_Click" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="pic/gl6.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Gl5"   Style="{StaticResource MyButton}" ToolTip="{Binding TeethFullgl5}"  Content="" HorizontalAlignment="Left" Margin="140,38,0,0" VerticalAlignment="Top" Width="35" Height="82" Click="Gl5_Click" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="pic/gl5.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Gl4"  Style="{StaticResource MyButton}" ToolTip="{Binding TeethFullgl4}" Content="" HorizontalAlignment="Left" Margin="181,38,0,0" VerticalAlignment="Top" Width="35" Height="82" Click="Gl4_Click" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="pic/gl4.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Gl3" Style="{StaticResource MyButton}" ToolTip="{Binding TeethFullgl3}"  Content="" HorizontalAlignment="Left" Margin="220,38,0,0" VerticalAlignment="Top" Width="35" Height="82" Click="Gl3_Click" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="pic/gl3.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Gl2" Style="{StaticResource MyButton}" ToolTip="{Binding TeethFullgl2}"  Content="" HorizontalAlignment="Left" Margin="261,38,0,0" VerticalAlignment="Top" Width="35" Height="82" Click="Gl2_Click" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="pic/gl2.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Gl1"  Style="{StaticResource MyButton}" ToolTip="{Binding TeethFullgl1}" Content="" HorizontalAlignment="Left" Margin="300,38,0,0" VerticalAlignment="Top" Width="35" Height="82" Click="Gl1_Click" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="pic/gl1.png"/>
+            </Button.Background>
+        </Button>
+        <!--#endregion GORNJA LEVA-->
+
+        <!--#region GORNJA DESNA -->
+        <Button x:Name="Gd1"  Style="{StaticResource MyButton}" ToolTip="{Binding TeethFullgd1}"  Content="" HorizontalAlignment="Left" Margin="350,38,0,0" VerticalAlignment="Top" Width="35" Height="82" Click="Gd1_Click" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="pic/gd1.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Gd2"  Style="{StaticResource MyButton}" ToolTip="{Binding TeethFullgd2}"  Content="" HorizontalAlignment="Left" Margin="389,38,0,0" VerticalAlignment="Top" Width="35" Height="82" Click="Gd2_Click" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="pic/gd2.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Gd3"  Style="{StaticResource MyButton}"   ToolTip="{Binding TeethFullgd3}"  Content="" HorizontalAlignment="Left" Margin="430,38,0,0" VerticalAlignment="Top" Width="35" Height="82" Click="Gd3_Click" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="pic/gd3.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Gd4"  Style="{StaticResource MyButton}" ToolTip="{Binding TeethFullgd4}"  Content="" HorizontalAlignment="Left" Margin="469,38,0,0" VerticalAlignment="Top" Width="35" Height="82" Click="Gd4_Click" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="pic/gd4.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Gd5"  Style="{StaticResource MyButton}" ToolTip="{Binding TeethFullgd5}"  Content="" HorizontalAlignment="Left" Margin="510,38,0,0" VerticalAlignment="Top" Width="35" Height="82" Click="Gd5_Click" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="pic/gd5.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Gd6"   Style="{StaticResource MyButton}" ToolTip="{Binding TeethFullgd6}"  Content="" HorizontalAlignment="Left" Margin="549,38,0,0" VerticalAlignment="Top" Width="35" Height="82" Click="Gd6_Click" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="pic/gd6.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Gd7"  Style="{StaticResource MyButton}" ToolTip="{Binding TeethFullgd7}"  Content="" HorizontalAlignment="Left" Margin="590,38,0,0" VerticalAlignment="Top" Width="35" Height="82" Click="Gd7_Click" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="pic/gd7.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Gd8" Style="{StaticResource MyButton}"  ToolTip="{Binding TeethFullgd8}"  Content="" HorizontalAlignment="Left" Margin="629,38,0,0" VerticalAlignment="Top" Width="35" Height="82" Click="Gd8_Click" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="pic/gd8.png"/>
+            </Button.Background>
+        </Button>
+        <!--#endregion GORNJA DESNA -->
+
+        <!--#region  DONJA LEVA -->
+        <Button x:Name="Dl8" Style="{StaticResource MyButton}"   ToolTip="{Binding TeethFulldl8}"  Content="" HorizontalAlignment="Left" Margin="26,125,0,0" VerticalAlignment="Top" Width="35" Height="82" Click="Dl8_Click" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="pic/dl8.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Dl7" Style="{StaticResource MyButton}"    ToolTip="{Binding TeethFulldl7}"   Content="" HorizontalAlignment="Left" Margin="60,125,0,0" VerticalAlignment="Top" Width="35" Height="82" Click="Dl7_Click" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="pic/dl7.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Dl6" Style="{StaticResource MyButton}"   ToolTip="{Binding TeethFulldl6}"   Content="" HorizontalAlignment="Left" Margin="101,125,0,0" VerticalAlignment="Top" Width="35" Height="82" Click="Dl6_Click" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="pic/dl6.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Dl5" Style="{StaticResource MyButton}"   ToolTip="{Binding TeethFulldl5}"    Content="" HorizontalAlignment="Left" Margin="140,125,0,0" VerticalAlignment="Top" Width="35" Height="82" Click="Dl5_Click" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="pic/dl5.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Dl4" Style="{StaticResource MyButton}"   ToolTip="{Binding TeethFulldl4}"    Content="" HorizontalAlignment="Left" Margin="181,125,0,0" VerticalAlignment="Top" Width="35" Height="82" Click="Dl4_Click" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="pic/dl4.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Dl3"  Style="{StaticResource MyButton}"   ToolTip="{Binding TeethFulldl3}"   Content="" HorizontalAlignment="Left" Margin="220,125,0,0" VerticalAlignment="Top" Width="35" Height="82" Click="Dl3_Click" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="pic/dl3.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Dl2" Style="{StaticResource MyButton}"    ToolTip="{Binding TeethFulldl2}"   Content="" HorizontalAlignment="Left" Margin="261,125,0,0" VerticalAlignment="Top" Width="35" Height="82" Click="Dl2_Click" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="pic/dl2.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Dl1" Style="{StaticResource MyButton}"    ToolTip="{Binding TeethFulldl1}"   Content="" HorizontalAlignment="Left" Margin="300,125,0,0" VerticalAlignment="Top" Width="35" Height="82" Click="Dl1_Click" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="pic/dl1.png"/>
+            </Button.Background>
+        </Button>
+        <!--#endregion  DONJA LEVA -->
+
+        <!--#region DONJA DESNA -->
+        <Button x:Name="Dd1" Style="{StaticResource MyButton}" ToolTip="{Binding TeethFulldd1}"  Content="" HorizontalAlignment="Left" Margin="350,125,0,0" VerticalAlignment="Top" Width="35" Height="82" Click="Dd1_Click" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="pic/dd1.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Dd2"  Style="{StaticResource MyButton}" ToolTip="{Binding TeethFulldd2}" Content="" HorizontalAlignment="Left" Margin="389,125,0,0" VerticalAlignment="Top" Width="35" Height="82" Click="Dd2_Click" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="pic/dd2.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Dd3" Style="{StaticResource MyButton}" ToolTip="{Binding TeethFulldd3}" Content="" HorizontalAlignment="Left" Margin="430,125,0,0" VerticalAlignment="Top" Width="35" Height="82" Click="Dd3_Click" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="pic/dd3.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Dd4"  Style="{StaticResource MyButton}" ToolTip="{Binding TeethFulldd4}" Content="" HorizontalAlignment="Left" Margin="469,125,0,0" VerticalAlignment="Top" Width="35" Height="82" Click="Dd4_Click" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="pic/dd4.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Dd5" Style="{StaticResource MyButton}" ToolTip="{Binding TeethFulldd5}" Content="" HorizontalAlignment="Left" Margin="510,125,0,0" VerticalAlignment="Top" Width="35" Height="82" Click="Dd5_Click" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="pic/dd5.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Dd6"  Style="{StaticResource MyButton}" ToolTip="{Binding TeethFulldd6}" Content="" HorizontalAlignment="Left" Margin="549,125,0,0" VerticalAlignment="Top" Width="35" Height="82" Click="Dd6_Click" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="pic/dd6.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Dd7"  Style="{StaticResource MyButton}"  ToolTip="{Binding TeethFulldd7}" Content="" HorizontalAlignment="Left" Margin="590,125,0,0" VerticalAlignment="Top" Width="35" Height="82" Click="Dd7_Click" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="pic/dd7.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Dd8" Style="{StaticResource MyButton}"  ToolTip="{Binding TeethFulldd8}" Content="" HorizontalAlignment="Left" Margin="629,125,0,0" VerticalAlignment="Top" Width="35" Height="82" Click="Dd8_Click" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="pic/dd8.png"/>
+            </Button.Background>
+        </Button>
+        <!--#endregion DONJA DESNA -->
+
+        <DataGrid x:Name="Karton_files" HorizontalAlignment="Left" Height="91" Margin="361,324,0,0" VerticalAlignment="Top" Width="299"
+              CanUserAddRows="false" AutoGenerateColumns="false"    ItemsSource="{Binding LoadDataBindingFajlovi}" SelectionChanged="KartonFiles_onclick" MouseDoubleClick="Karton_files_double" >
+
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding id}"  Header="Id" MinWidth="10" 
+IsReadOnly="True" />
+                <DataGridTextColumn Binding="{Binding imefajla}"  Header="fajl" MinWidth="40" 
+IsReadOnly="True" />
+                <DataGridTextColumn Binding="{Binding beleske}" Header="beleske " MinWidth="250"
+IsReadOnly="True" />
+                <DataGridTextColumn Binding="{Binding putanja}" Header="put " MinWidth="1"
+IsReadOnly="True" />
+                <DataGridTextColumn Binding="{Binding idp}" Header="IDP " MinWidth="1"
+IsReadOnly="True" />
+
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <GridSplitter HorizontalAlignment="Left" Height="197" Margin="340,22,0,0" VerticalAlignment="Top" Width="5" Background="LightGray"/>
+        <GridSplitter HorizontalAlignment="Left" Height="5" Margin="22,120,0,0" VerticalAlignment="Top" Width="641" Background="LightGray"/>
+        <Button x:Name="UpBeleske"  FontFamily="segoe" FontWeight="Bold" Content="Sačuvaj" HorizontalAlignment="Left" Margin="248,422,0,0" Background="LightSkyBlue"  VerticalAlignment="Top" Width="75" Click="UpBeleske_Click"/>
+        <TextBox x:Name="BeleskeText" Style="{StaticResource placeHolder}" Tag="Beleške o pacijentu"  FontFamily="segoe" FontWeight="Bold" HorizontalAlignment="Left" Height="23" Margin="51,249,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="272"  TextChanged="BeleskeText_TextChanged" KeyDown="BeleskeText_keydown"/>
+
+        <Button x:Name="Add" Content="Dodaj"  Background="LightSkyBlue" FontFamily="segoe" FontWeight="Bold"  HorizontalAlignment="Left" Margin="362,422,0,0" VerticalAlignment="Top" Width="75" Click="Add_Click"/>
+        <Button x:Name="Open" Content="Otvori"  Background="LightSkyBlue" FontFamily="segoe" FontWeight="Bold"  HorizontalAlignment="Left" Margin="585,423,0,0" VerticalAlignment="Top" Width="75" Click="Open_Click" IsDefault="True"/>
+        <TextBox x:Name="Beleske" Style="{StaticResource placeHolder}" Tag="Opis " FontFamily="segoe" FontWeight="Bold" HorizontalAlignment="Left" Height="23" Margin="362,249,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="298"/>
+        <TextBox x:Name="ImeFajla" Style="{StaticResource placeHolder}" Tag="Ime fajla" FontFamily="segoe" FontWeight="Bold" HorizontalAlignment="Left" Height="23" Margin="363,285,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="198"/>
+        <Button x:Name="Sacuvaj" Content="Sačuvaj" Background="LightSkyBlue" FontFamily="segoe" FontWeight="Bold"  HorizontalAlignment="Left" Margin="583,285,0,0" VerticalAlignment="Top" Width="75" Click="Sacuvaj_Click"/>
+        <Button x:Name="Brisanje" ToolTip="Brisanje selektovanog fajla iz tabele" Content="" HorizontalAlignment="Left" Margin="668,363,0,0" VerticalAlignment="Top" Width="7" Height="18" RenderTransformOrigin="0.506,1.489" Background="Red" Click="Brisanje_Click"/>
+        <Button x:Name="Refresh" Content="Obriši belešku" Background="#FF7F1C1C" FontFamily="segoe" FontWeight="Bold"  HorizontalAlignment="Left" Margin="21,422,0,0" VerticalAlignment="Top" Width="84" Height="17" RenderTransformOrigin="0.513,0.29" Click="Refresh_Click"/>
+
+        <DataGrid x:Name="BeleskeDG" HorizontalAlignment="Left" CanUserAddRows="false" AutoGenerateColumns="false"    ItemsSource="{Binding LoadDataBindingBeleske}" Height="132" Margin="21,283,0,0" VerticalAlignment="Top" Width="302" SelectionChanged="BeleskeDG_Click">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding id}"  Header="Id" MinWidth="10" 
+IsReadOnly="True" />
+                <DataGridTextColumn Binding="{Binding beleske}" Header="beleske " MinWidth="275"
+IsReadOnly="True" />
+
+
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="Osvezi" Content="Osveži" Background="#FFBBC827" FontFamily="segoe" FontWeight="Bold"  HorizontalAlignment="Left" Margin="135,422,0,0" VerticalAlignment="Top" Width="75" Height="18" Click="Osvezi_Click"/>
+        <TextBox x:Name="IdBeleske" HorizontalAlignment="Left" Style="{StaticResource placeHolder}" Tag="ID"  Height="23" Margin="21,249,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="25" IsEnabled="False"/>
+
+    </Grid>
+</Window>
